@@ -19,9 +19,7 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {
-    "typescript": "^5.0.4"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dthree/node-piston.git"
